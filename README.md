@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello there 👋, I'm Rizky Andika Apriansyah</h1>
 <h3 align="center">I am just a guy who keeps trying to become better at coding. 💻</h3>
-<img align="kanan" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQzZmQ5NDZlOGYxNmVjYTZhZWFmNWFlMjJjNDhjOTAyNzFjYzI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgIc0lryrxvqVGM/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQzZmQ5NDZlOGYxNmVjYTZhZWFmNWFlMjJjNDhjOTAyNzFjYzI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgIc0lryrxvqVGM/giphy.gif">
 
 - 🔭 I’m currently working on **my brain**
 
