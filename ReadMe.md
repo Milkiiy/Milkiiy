@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there 👋, I'm Rizky Andika Apriansyah</h1>
+
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQzZmQ5NDZlOGYxNmVjYTZhZWFmNWFlMjJjNDhjOTAyNzFjYzI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgIc0lryrxvqVGM/giphy.gif">
 
