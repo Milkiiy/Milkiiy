@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my brain**
 
-- 🌱 I’m currently learning **Fullstack developer**
+- 🌱 I’m currently learning **all about data**
 
-- 💬 Ask me about **java and python**
+- 💬 Ask me about **java,python and R**
 
 - 📫 How to reach me **rizkyaandikaa@gmail.com**
 
